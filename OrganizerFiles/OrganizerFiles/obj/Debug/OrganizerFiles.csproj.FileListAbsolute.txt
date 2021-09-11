@@ -1,0 +1,17 @@
+C:\Users\Andres Loretto\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.csprojResolveAssemblyReference.cache
+C:\Users\Andres Loretto\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.MainForm.resources
+C:\Users\Andres Loretto\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.csproj.GenerateResource.Cache
+C:\Users\Andres Loretto\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\bin\Debug\OrganizerFiles.exe.config
+C:\Users\Andres Loretto\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\bin\Debug\OrganizerFiles.exe
+C:\Users\Andres Loretto\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\bin\Debug\OrganizerFiles.pdb
+C:\Users\Andres Loretto\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.exe
+C:\Users\Andres Loretto\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.pdb
+C:\Users\javier\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.csprojResolveAssemblyReference.cache
+C:\Users\javier\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.MainForm.resources
+C:\Users\javier\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.Resource.resources
+C:\Users\javier\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.csproj.GenerateResource.Cache
+C:\Users\javier\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.exe
+C:\Users\javier\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\bin\Debug\OrganizerFiles.exe.config
+C:\Users\javier\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\bin\Debug\OrganizerFiles.exe
+C:\Users\javier\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\bin\Debug\OrganizerFiles.pdb
+C:\Users\javier\Documents\SharpDevelop Projects\OrganizerFiles\OrganizerFiles\obj\Debug\OrganizerFiles.pdb

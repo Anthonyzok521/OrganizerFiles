@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="OrganizerFiles" GeneratedClassName="Idioma" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="AbrirCarpeta" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ArchivosHallados" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CantidadTotal" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CarpetaCreadaPara" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CarpetaPesa" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DesactiveExaminar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EnAbrirCarpeta" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Open folder</Value>
+    </Setting>
+    <Setting Name="EnArchivosHallados" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Name of the files found: </Value>
+    </Setting>
+    <Setting Name="EnCantidadTotal" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Total number of all files: </Value>
+    </Setting>
+    <Setting Name="EnCarpetaCreadaPara" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Folder created for </Value>
+    </Setting>
+    <Setting Name="EnCarpetaPesa" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">The folder weighs: </Value>
+    </Setting>
+    <Setting Name="EnCarpetarConExtension" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EncarpetarSinExtension" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EnDesactiveExaminar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Uncheck the Browse for Folders and Subfolders box to be able to use the Folder By Length setting. It is not possible to do this action if this box is activated, because this would cause all the files depending on their extension to be moved from their place of origin. It is not possible to do this action.</Value>
+    </Setting>
+    <Setting Name="EnEncarpetarConExtension" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Archive based on file extension.</Value>
+    </Setting>
+    <Setting Name="EnEnCarpetarSinExtension" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Archive regardless of file extension.</Value>
+    </Setting>
+    <Setting Name="EnEscribeLaRuta" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Write the route here or click on the magnifying glass.</Value>
+    </Setting>
+    <Setting Name="EnExaminarCarpetas" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Browse all folders (This action takes a while).</Value>
+    </Setting>
+    <Setting Name="EnHaOcurrido" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">There was a problem, possible errors: • File path not found, or misspelled. • Access denied to the specified path. • Some effective file. A problem has occurred.</Value>
+    </Setting>
+    <Setting Name="EnLimpiar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Clean console</Value>
+    </Setting>
+    <Setting Name="EnNoEncarpetar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Do not file</Value>
+    </Setting>
+    <Setting Name="EnOrganizar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Organize</Value>
+    </Setting>
+    <Setting Name="EnSinRuta" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">There is no path to open the folder</Value>
+    </Setting>
+    <Setting Name="EnTiposDeArchivos" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">File types:</Value>
+    </Setting>
+    <Setting Name="EscribeLaRuta" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ExaminarCarpetas" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="HaOcurrido" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Limpiar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NoEncarpetar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Organizar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SinRuta" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SpAbrirCarpeta" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Abrir carpeta</Value>
+    </Setting>
+    <Setting Name="SpArchivarSinE" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Archivar sin importar extensión del archivo.</Value>
+    </Setting>
+    <Setting Name="SpArchivosHallados" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Nombre de los archivos hallados: </Value>
+    </Setting>
+    <Setting Name="SpCantidadTotal" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Cantidad total de todos los archivos: </Value>
+    </Setting>
+    <Setting Name="SpCarpetaCreadaPara" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Carpeta creada para </Value>
+    </Setting>
+    <Setting Name="SpCarpetaPesa" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">La Carpeta pesa: </Value>
+    </Setting>
+    <Setting Name="SpDesactiveExaminar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Desactive la casilla de Examinar Carpetas y Subcarpetas, para poder utilizar el parámetro de Encarpetar Según su Extención. No es posible hacer esta acción si esa casilla está activa, porque esto haría que todos los archivos dependiendo de su extensión sean movidos de su lugar de origen. No es posible hacer esta acción.</Value>
+    </Setting>
+    <Setting Name="SpEn" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">English</Value>
+    </Setting>
+    <Setting Name="SpEncarpetarConExtension" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Archivar según la extensión del archivo.    </Value>
+    </Setting>
+    <Setting Name="SpEscribeLaRuta" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Escribe la ruta aquí o click en la lupa.</Value>
+    </Setting>
+    <Setting Name="SpExaminarCarpetas" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Examinar todas las carpetas (Esta acción tarda un poco).</Value>
+    </Setting>
+    <Setting Name="SpHaOcurrido" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Hubo un problema, posibles errores:• Ruta de los archivos no encontrada, o mal escrita.• Acceso denegado a la ruta especificada.• Algún archivo efectuoso.Ha ocurrido un problema.</Value>
+    </Setting>
+    <Setting Name="SpLimpiar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Limpiar consola</Value>
+    </Setting>
+    <Setting Name="SpNoEncarpetar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">No archivar</Value>
+    </Setting>
+    <Setting Name="SpOrganizar" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Organizar</Value>
+    </Setting>
+    <Setting Name="SpSinRuta" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">No hay una ruta para abrir la carpeta</Value>
+    </Setting>
+    <Setting Name="SpTiposDeArchivos" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Tipos de archivos:</Value>
+    </Setting>
+    <Setting Name="TiposDeArchivos" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
